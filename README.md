@@ -10,3 +10,4 @@ See uploaded file "[FormBuddy_ProjectIntro.pdf](https://github.com/csci-599-appl
 * Cole Heflin, cheflin@usc.edu
 * Richie Gowtham, rkathire@usc.edu
 * Chrissy Acojedo, acojedo@usc.edu
+* Zili Zhou, zilizhou@usc.edu
